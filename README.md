@@ -1,0 +1,2 @@
+# AGMARKNET_Commodity_price_prediction
+This projects aims to collect and analyse the AGMARKNET Data, AGMARKNET is one Gov API that publish commoditiy price various mandi in INDIA. There is History data stored Manully htting the API on postman. Aim of the project is to store all the history data into postgres database and update this data base on daly basis using scheduled AWS lambda on daly basis. Nad connct the database to AWS quick sight and anlyse the data basis on daily basis
