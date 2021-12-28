@@ -21,7 +21,13 @@ Step 4: Run ETL to Model the Data
 Step 5: Complete Project Write Up
 
 ##Tables Details
-![image](https://user-images.githubusercontent.com/56694165/147430579-e5f25ac2-1d71-4991-99f5-89861762d42b.png)
+![image](https://user-images.githubusercontent.com/56694165/147597056-0de82fa1-a671-41dd-9c42-230057e8e2be.png)
+
+
+## Data Dictionary
+![image](https://user-images.githubusercontent.com/56694165/147597135-0f17cc07-37bc-4190-ade4-f9158d32eab1.png)
+![image](https://user-images.githubusercontent.com/56694165/147597166-7484e347-5c49-4718-9b00-caf20253f7d5.png)
+
 
 ##Scheduling the the function to run daily Basis
 Agmarknet_lambda.py is function which fetchs the data every day at 11:30 pm and pushes the data into redshift table
